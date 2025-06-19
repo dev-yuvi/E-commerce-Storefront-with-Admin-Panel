@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Nike Air Max",
+    "price": 7999,
+    "description": "Comfortable and stylish running shoes for daily wear.",
+    "category": "Shoes",
+    "stock": 20,
+    "imageUrls": ["https://via.placeholder.com/300x300.png?text=Nike+Air+Max"],
+    "ratings": 4.5,
+    "numOfReview": 12,
+    "seller": "Nike Store"
+  },
+  {
+    "name": "Apple iPhone 14",
+    "price": 79999,
+    "description": "Latest iPhone with A15 Bionic chip and advanced camera system.",
+    "category": "Electronics",
+    "stock": 10,
+    "imageUrls": ["https://via.placeholder.com/300x300.png?text=iPhone+14"],
+    "ratings": 4.8,
+    "numOfReview": 50,
+    "seller": "Apple"
+  },
+  {
+    "name": "Wooden Study Table",
+    "price": 3499,
+    "description": "Ergonomic and durable table for study or work.",
+    "category": "Furniture",
+    "stock": 15,
+    "imageUrlsUrl": ["https://via.placeholder.com/300x300.png?text=Study+Table"],
+    "ratings": 4.3,
+    "numOfReview": 18,
+    "seller": "UrbanWood"
+  },
+  {
+    "name": "Samsung LED TV 42\"",
+    "price": 24999,
+    "description": "Full HD Smart LED TV with great picture quality.",
+    "category": "Electronics",
+    "stock": 5,
+    "imageUrls": ["https://via.placeholder.com/300x300.png?text=Samsung+LED+TV"],
+    "ratings": 4.6,
+    "numOfReview": 30,
+    "seller": "Samsung"
+  },
+  {
+    "name": "Puma Running T-Shirt",
+    "price": 1199,
+    "description": "Dry fit t-shirt for fitness enthusiasts.",
+    "category": "Clothing",
+    "stock": 50,
+    "imageUrls": ["https://via.placeholder.com/300x300.png?text=Puma+T-Shirt"],
+    "ratings": 4.2,
+    "numOfReview": 25,
+    "seller": "Puma"
+  }
+]
